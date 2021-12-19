@@ -20,9 +20,15 @@
 <br>
 
 <!-- Image of what the contribution looks like -->
-<p>This is a preview of what the contribution looks like.</p>
-<img src="https://user-images.githubusercontent.com/62628408/146686703-e1ee2159-ccfa-4989-92f9-6471feae19fa.png">
+<p>This is a preview of what the contribution looks like. <a href="https://github.com/CommunityPro/Practice-Contribution/blob/main/Contributors.md">Preview</a></p>
+<a href="https://github.com/CommunityPro/Practice-Contribution/blob/main/Contributors.md"><img src="https://user-images.githubusercontent.com/62628408/146686703-e1ee2159-ccfa-4989-92f9-6471feae19fa.png"></a>
 
-<h2>How to Contribute</h2>
+<h2>⚙️ How to Contribute</h2>
 <p>Follow this tutorial to contribute.</p>
 
+## 👣 Install GIT on your machine.
+If you want to learn how to install git without any errors, follow this <a href="https://git-scm.com/downloads">tutorial</a>, if not, move on to the next step.
+
+## 👣 Fork this repository.
+Fork this repository using the fork button on the top right of this page. This will create a copy with your name. 
+<img src="https://user-images.githubusercontent.com/62628408/146688224-1f5e2d3f-68dd-4961-bb4e-ca6a640e1f2a.png" width="100%">
