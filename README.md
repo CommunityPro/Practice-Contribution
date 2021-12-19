@@ -21,6 +21,7 @@
 
 <!-- Image of what the contribution looks like -->
 <p>This is a preview of what the contribution looks like.</p>
+<img src="https://user-images.githubusercontent.com/62628408/146686703-e1ee2159-ccfa-4989-92f9-6471feae19fa.png">
 
 <h2>How to Contribute</h2>
 <p>Follow this tutorial to contribute.</p>
