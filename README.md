@@ -49,4 +49,22 @@ Next switch into the folder of the repo we just cloned by typing this command:
 ```
 cd <repository name>
 ```
-CD stands for "change directory" and the <repository name> is the name of the project repo. E.g **practice-contribution**
+CD stands for "change directory" and the `<repository name>` is the name of the project repo. E.g **practice-contribution**
+
+## Point upstream branch to origin
+```
+git remote add upstream <URL of main repo>
+```
+
+We need to point our forked repo to the origin repo: where origin repo is the URL of the original repo we forked E.g `git remote add upstream https://github.com/CommunityPro/Practice-Contribution.git`
+
+## Create branch
+In other to start making our changes, we need to create a new branch to work from.
+```
+git checkout -b <branch name>
+```
+
+You can name the branch anything you want, but for the sake of this project, name your branch `add-yourname` (replace yourname with your own name). E.g `git checkout -b add-john` 
+
+## Make your changes.
+Now we are on a new branch, we can now make our changes
