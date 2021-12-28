@@ -26,9 +26,30 @@
 <h2>⚙️ How to Contribute</h2>
 <p>Follow this tutorial to contribute.</p>
 
-## Step 1: Install GIT on your machine.
+## Install git on your machine.
+Git is a version control system that is used for tracking changes in a file.
 If you want to learn how to install git without any errors, follow this <a href="https://git-scm.com/downloads">tutorial</a>, if not, move on to the next step.
 
-## Step 2: Fork this repository.
+## Fork this repository.
 Fork this repository using the fork button on the top right of this page. This will create a copy with your name. 
-<img src="https://user-images.githubusercontent.com/62628408/146688224-1f5e2d3f-68dd-4961-bb4e-ca6a640e1f2a.png" width="100%">
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/62628408/147513059-5b617b8d-5fcb-4f8c-8563-17ba03aec352.png" width="100%">
+
+## Clone your fork.
+Cloning a project is simply taking that project and making a copy on your local machine. To clone this project, click the button on green that says `code` and on the drop down box, copy the URL of the project in the box, and open up your git bash terminal and type in the following command:
+
+```
+git clone <URL you just copied>
+```
+It should look like this: ```git clone https://github.com/Evavic44/Practice-Contribution.git``` which will clone the project in your local machine.
+<br/>
+<img src="https://user-images.githubusercontent.com/62628408/147514033-5f96da6e-4318-4fe8-85ad-3176e1e01600.png" width="100%">
+
+## Switch directory
+Next switch into the folder of the repo we just cloned by typing this command:
+```
+cd <repository name>
+```
+CD stands for "change directory" and the <repository name> is the name of the project repo. E.g **practice-contribution**
