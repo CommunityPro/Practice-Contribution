@@ -1,0 +1,23 @@
+name: Feature
+description: Do you have an idea for improving this repository that you would like to share?
+title: "[IDEA REQUEST] <description here>"
+labels: [enhancement]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the idea 
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Add several screenshots or links related to the idea (if applicable)
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Add more details about the idea
+    validations:
+      required: false
