@@ -36,9 +36,7 @@ This will create a copy with your name.
 <img src="https://user-images.githubusercontent.com/62628408/147513059-5b617b8d-5fcb-4f8c-8563-17ba03aec352.png" width="100%">
 
 ## 3. Clone your fork.
-Cloning a project is simply taking that project and making a copy on your local machine. To clone this project, click the button on green that says `code` and on the drop down box, copy the URL of the project in the box, and open up your git bash terminal and type in the following command:
-
-`git clone <URL you just copied>`
+Cloning a project is simply taking that project and making a copy on your local machine. To clone this project, click the button on green that says `code` and on the drop down box, copy the URL of the project in the box, and open up your git bash terminal and type in the following command: `git clone <URL you just copied>`
 
 It should look like this:
 
@@ -55,7 +53,7 @@ Next switch into the folder of the repo we just cloned by typing this command:
 ```
 cd <repository name>
 ```
-CD stands for "change directory" and the `<repository name>` is the name of the project repo. E.g **practice-contribution**
+cd stands for "change directory" and the `<repository name>` is the name of the project repo. E.g **practice-contribution**
 
 ## 5. Point upstream branch to origin
 ```
@@ -136,11 +134,8 @@ Now we have sucessfully added our profile, we can now push the changes to GitHub
 git push origin <branch name>
 ```
 
-Replace the <branch name> with the name of the branch we created earlier. E.g add-bruce. Which will look like this: 
+Replace the <branch name> with the name of the branch you created earlier. E.g `git push origin add-bruce. 
   
-  ```
-  git push origin add-bruce
-  ```
 Our changes should get pushed to the main repository and we can now do a pull request.
   
   
@@ -152,6 +147,6 @@ Our changes should get pushed to the main repository and we can now do a pull re
 You have successfully made a pull request(PR) the standard way for most GitHub projects. Congratulations! 🤩
 Just sit back and relax as I merge you changes immediately.
   
-Thank you for taking the time to check out this tutorial, do you need any help, question or feedback, or do you find any step in this tutorial confusing, feel free to contact any of the repo managers on our <a href="https://github.com/CommunityPro/Practice-Contribution/discussions/15" target"_blank">discussions</a> to drop your questions and we'll attend to you as soon as possible. 
+Thank you for taking the time to check out this tutorial, do you need any help, question or feedback, or do you find any step in this tutorial confusing, feel free to contact any of the repo managers on our <a href="https://github.com/CommunityPro/Practice-Contribution/discussions/15" target="_blank">discussions</a> to drop your questions and we'll attend to you as soon as possible. 
 
  
