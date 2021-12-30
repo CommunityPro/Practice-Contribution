@@ -25,6 +25,13 @@
   </a>
 </td>
 <!-- End of column-1 -->
- 
+ <!-- Start of column-2 -->
+<td align="center">
+  <a href="https://github.com/Mannuel25">
+    <img src="https://avatars.githubusercontent.com/u/68563757?v=4" width="100px"> <br/>
+    <sub>Emmanuel Tanimowo</sub>
+  </a>
+</td>
+<!-- End of column-2 -->
 </tr>
 </table>
