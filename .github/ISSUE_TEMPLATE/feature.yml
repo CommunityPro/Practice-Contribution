@@ -1,0 +1,23 @@
+name: Feature
+description: Do you have a feature you would like to see included in the repository?
+title: "[FEATURE REQUEST] <description here>"
+labels: [enhancement]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the feature 
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Add several screenshots or links related to the feature (if applicable)
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Add more details about the feature
+    validations:
+      required: false
