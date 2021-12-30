@@ -86,16 +86,16 @@ Copy the code below, edit it with your own information and then paste it into th
 
 
 ### A few things to change:
-1. Replace the link with your own profile link 
+- Replace the link with your own profile link 
 ```<a href="your link here"></a>```
 
-2. Right click on your github profile image and copy the image link and paste inside the `img` tag. Leave the `width=""` property
+- Right click on your github profile image and copy the image link and paste inside the `img` tag. Leave the `width=""` property
 
 ```html
 <img src="your profile image link here" width="100px">
 ```
 
-3. Repalce the sub tag with your own name.
+- Repalce the sub tag with your own name.
 
 ```html
 <sub>Your Name</sub>
