@@ -28,7 +28,7 @@
  <!-- Start of column-2 -->
 <td align="center">
   <a href="https://github.com/Mannuel25">
-    <img src="https://avatars.githubusercontent.com/u/68563757?s=40&v=4" width="100px"> <br/>
+    <img src="https://avatars.githubusercontent.com/u/68563757?v=4" width="100px"> <br/>
     <sub>Emmanuel Tanimowo</sub>
   </a>
 </td>
