@@ -13,7 +13,7 @@
       width="100px"
     />
     <br />
-    <sub>Ajor Moses</sub>
+    <sub>ajormoses</sub>
   </a>
 </td>
 <!-- End of column-1 -->
