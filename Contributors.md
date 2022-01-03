@@ -9,7 +9,7 @@
 <td align="center">
   <a href="https://github.com/evavic44">
     <img
-      src="./tech.avi.jfif"
+      src="./tech avi.jfif"
       width="100px"
     />
     <br />
