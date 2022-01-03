@@ -45,5 +45,17 @@
   </a>
 </td>
 <!-- End of column-4 -->
+<!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/ahmadadejumo">
+    <img
+      src="https://avatars.githubusercontent.com/u/55682552?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Ahmad Adejumo</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
 </tr>
 </table>
