@@ -57,5 +57,17 @@
   </a>
 </td>
 <!-- End of column-1 -->
+<!-- Start of column-5 -->
+<td align="center">
+  <a href="https://github.com/vermilion4">
+    <img
+      src="https://avatars.githubusercontent.com/u/49479307?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Adaeze Ndupu</sub>
+  </a>
+</td>
+<!-- End of column-5 -->
 </tr>
 </table>
