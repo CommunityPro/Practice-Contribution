@@ -9,7 +9,7 @@
 <td align="center">
   <a href="https://github.com/ajormoses">
     <img
-      src=".https://avatars.githubusercontent.com/ajormoses"
+      src="https://avatars.githubusercontent.com/ajormoses"
       width="100px"
     />
     <br />
