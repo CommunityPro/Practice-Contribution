@@ -50,6 +50,9 @@
   <a href="https://github.com/vermilion4">
     <img
       src="https://avatars.githubusercontent.com/u/49479307?v=4"
+         
+         
+        
       width="100px"
     />
     <br />
@@ -58,4 +61,17 @@
 </td>
 <!-- End of column-5 -->
 </tr>
+  
+  <!-- Start of column-6 -->
+<td align="center">
+  <a href="https://github.com/mikey247">
+    <img
+      src="https://avatars.githubusercontent.com/u/93191705?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Michael Umeokoli</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
 </table>
