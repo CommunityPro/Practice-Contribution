@@ -169,17 +169,19 @@ Now when you check the repo your forked, you should see the changes we just push
 
 <img src="https://user-images.githubusercontent.com/62628408/147897806-bfeeb6a0-9370-47e4-81be-1e735dda402d.png" alt="pull_request">
 
-- Next click the `compare and PR button` which will open up the PR in a new window. 
+<br>
 
+- Next click the `compare and Pull request` button which will open up the pull request in a new tab.
+<img src="https://user-images.githubusercontent.com/62628408/147908216-86212e5a-6ba4-4d77-9815-1395be82e6ec.png" width="100%" alt="open pull request">
 
+<br>
 
-- Click the PR button and click `create pull request` in a new tab. 
-- Fill in the requore
-- Guidelines on how to add your profile will be automatically pre-populated for you, follow the instructions and fill in the right details and submit.
-  
+- Guidelines on how to add your profile will be automatically pre-populated for you, follow the instructions and fill in the right details and click create pull request.
+<img src="https://user-images.githubusercontent.com/62628408/147913633-a841c880-5b05-4cbd-a05e-8d715a4069e1.png" width="100%" alt="create-pull-request">
+
 You have successfully made a pull request(PR) the standard way for most GitHub projects. Congratulations! 🤩
-Just sit back and relax as I merge you changes immediately.
-  
+Just sit back and relax as your changes gets merged immediately.
+    
 Thank you for taking the time to check out this tutorial, do you need any help, question or feedback, or do you find any step in this tutorial confusing, feel free to contact any of the repo managers on our <a href="https://github.com/CommunityPro/Practice-Contribution/discussions/15" target="_blank">discussions</a> to drop your questions and we'll attend to you as soon as possible. 
 
- 
+<img src="https://user-images.githubusercontent.com/62628408/147913211-e2e7c011-e196-4255-9cec-bed3f6a65813.png" width="100%" alt="motivational banner">
