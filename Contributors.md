@@ -33,5 +33,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/ogeobubu">
+    <img
+      src="https://avatars.githubusercontent.com/u/68722564?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Oge Obubu</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
 </tr>
 </table>
