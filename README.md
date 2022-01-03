@@ -16,9 +16,8 @@
 
 <br>
 
-<!-- Image of what the contribution looks like -->
 <p>This is a preview of what the contribution looks like. <a href="https://github.com/CommunityPro/Practice-Contribution/blob/main/Contributors.md">Preview</a></p>
-<a href="https://github.com/CommunityPro/Practice-Contribution/blob/main/Contributors.md"><img src="https://user-images.githubusercontent.com/62628408/146686703-e1ee2159-ccfa-4989-92f9-6471feae19fa.png"></a>
+<a href="https://github.com/CommunityPro/Practice-Contribution/blob/main/Contributors.md"><img src="https://user-images.githubusercontent.com/62628408/147907346-1422e6a4-9616-4ac6-b4fd-d67952870a99.png"></a>
 
 <h1 align="center">How to Contribute</h1>
 <p align="center">Follow this tutorial to contribute.</p> 
