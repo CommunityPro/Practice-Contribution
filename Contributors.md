@@ -45,7 +45,7 @@
   </a>
 </td>
 <!-- End of column-4 -->
-<!-- Start of column-1 -->
+<!-- Start of column-5 -->
 <td align="center">
   <a href="https://github.com/ahmadadejumo">
     <img
@@ -56,8 +56,8 @@
     <sub>Ahmad Adejumo</sub>
   </a>
 </td>
-<!-- End of column-1 -->
-<!-- Start of column-5 -->
+<!-- End of column-5 -->
+<!-- Start of column-6 -->
 <td align="center">
   <a href="https://github.com/vermilion4">
     <img
@@ -68,8 +68,8 @@
     <sub>Adaeze Ndupu</sub>
   </a>
 </td>
-<!-- End of column-5 -->
-<!-- Start of column-6 -->
+<!-- End of column-6 -->
+<!-- Start of column-7 -->
 <td align="center">
   <a href="https://github.com/ajormoses">
     <img
@@ -80,10 +80,10 @@
     <sub>Ajor Moses</sub>
   </a>
 </td>
-<!-- End of column-6 -->
+<!-- End of column-7 -->
 </tr>
   
-  <!-- Start of column-6 -->
+  <!-- Start of column-8 -->
 <td align="center">
   <a href="https://github.com/mikey247">
     <img
@@ -94,5 +94,5 @@
     <sub>Michael Umeokoli</sub>
   </a>
 </td>
-<!-- End of column-1 -->
+<!-- End of column-8 -->
 </table>
