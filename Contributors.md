@@ -82,4 +82,17 @@
 </td>
 <!-- End of column-6 -->
 </tr>
+  
+  <!-- Start of column-6 -->
+<td align="center">
+  <a href="https://github.com/mikey247">
+    <img
+      src="https://avatars.githubusercontent.com/u/93191705?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Michael Umeokoli</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
 </table>
