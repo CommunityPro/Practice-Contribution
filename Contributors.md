@@ -69,5 +69,17 @@
   </a>
 </td>
 <!-- End of column-5 -->
+<!-- Start of column-6 -->
+<td align="center">
+  <a href="https://github.com/ajormoses">
+    <img
+      src="https://avatars.githubusercontent.com/ajormoses"
+      width="100px"
+    />
+    <br />
+    <sub>Ajor Moses</sub>
+  </a>
+</td>
+<!-- End of column-6 -->
 </tr>
 </table>
