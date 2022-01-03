@@ -33,5 +33,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column 4 -->
+<td align="center">
+  <a href="https://github.com/ajormoses">
+    <img
+      src="https://avatars.githubusercontent.com/ajormoses"
+      width="100px"
+    />
+    <br />
+    <sub>Ajor Moses</sub>
+  </a>
+  <!--End of column 4 -->
+</td>
 </tr>
 </table>
