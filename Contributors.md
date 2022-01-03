@@ -7,7 +7,7 @@
   
 <!-- Start of column-1 -->
 <td align="center">
-  <a href="https://github.com/evavic44">
+  <a href="https://github.com/ajormoses">
     <img
       src="./tech avi.jfif"
       width="100px"
