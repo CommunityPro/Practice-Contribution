@@ -130,6 +130,8 @@ Just go to your GitHub profile page to get your profile image and link.
 
 Then save your changes. 
 
+<br>
+
 ### 8. Make a commit
 Now we're done adding our profile, we need to make a commit to save that file added.
 on the git bash terminal, type
@@ -153,6 +155,8 @@ git commit -m 'Add bruce wayne'
 
 Change Bruce Wayne to your own name.
 
+<br>
+
 ### 9. Push changes to GitHub
 Now we have sucessfully added our profile, we can now push the changes to GitHub. Use the command below to do that.
 
@@ -164,7 +168,9 @@ Replace the `<branch name>` with the name of the branch you created earlier. E.g
   
 Our changes should get pushed to the main repository and we can now do a pull request.
   
-### Make a pull request(PR)
+<br>  
+  
+### 10. Make a pull request(PR)
 Now when you check the repo your forked, you should see the changes we just pushed to GitHub
 
 <img src="https://user-images.githubusercontent.com/62628408/147897806-bfeeb6a0-9370-47e4-81be-1e735dda402d.png" alt="pull_request">
