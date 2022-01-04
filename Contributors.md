@@ -81,9 +81,7 @@
   </a>
 </td>
 <!-- End of column-7 -->
-</tr>
-  
-  <!-- Start of column-8 -->
+<!-- Start of column-8 -->
 <td align="center">
   <a href="https://github.com/mikey247">
     <img
@@ -95,4 +93,19 @@
   </a>
 </td>
 <!-- End of column-8 -->
+<!-- Start of column-9 -->
+<td align="center">
+  <a href="https://github.com/Jummate">
+    <img
+      src="https://avatars.githubusercontent.com/u/40699198?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Omololu Jumat</sub>
+  </a>
+</td>
+<!-- End of column-9 -->
+</tr>
+  
+
 </table>
