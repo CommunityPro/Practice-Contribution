@@ -108,3 +108,16 @@
 </td>
 <!-- End of column-9 -->
 </table>
+
+<!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/damtrix">
+    <img
+      src="https://avatars.githubusercontent.com/u/42788669?s=400&u=be1f9d656fa29d9a56bd2d47c19936a550d11532&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Oludamola Onarinde</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
