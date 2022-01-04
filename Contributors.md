@@ -81,30 +81,44 @@
   </a>
 </td>
 <!-- End of column-7 -->
-<!-- Start of column-8 -->
-<td align="center">
-  <a href="https://github.com/ajormoses">
-    <img
-      src="https://avatars.githubusercontent.com/ajormoses"
-      width="100px"
-    />
-    <br />
-    <sub>Ajor Moses</sub>
-  </a>
-</td>
-<!-- End of column-8 -->
 </tr>
-  
+
+<tr>
+  <!-- Start of column-8 -->
+  <td align="center">
+    <a href="https://github.com/ajormoses">
+      <img
+        src="https://avatars.githubusercontent.com/ajormoses"
+        width="100px"
+      />
+      <br />
+      <sub>Ajor Moses</sub>
+    </a>
+  </td>
+  <!-- End of column-8 -->
   <!-- Start of column-9 -->
-<td align="center">
-  <a href="https://github.com/mikey247">
-    <img
-      src="https://avatars.githubusercontent.com/u/93191705?v=4"
-      width="100px"
-    />
-    <br />
-    <sub>Michael Umeokoli</sub>
-  </a>
-</td>
-<!-- End of column-9 -->
+  <td align="center">
+    <a href="https://github.com/mikey247">
+      <img
+        src="https://avatars.githubusercontent.com/u/93191705?v=4"
+        width="100px"
+      />
+      <br />
+      <sub>Michael Umeokoli</sub>
+    </a>
+  </td>
+  <!-- End of column-9 -->
+  <!-- Start of column-10 -->
+  <td align="center">
+    <a href="https://github.com/Jummate">
+      <img
+        src="https://avatars.githubusercontent.com/u/40699198?v=4"
+        width="100px"
+      />
+      <br />
+      <sub>Omololu Jumat</sub>
+    </a>
+  </td>
+  <!-- End of column-10 -->
+</tr>
 </table>
