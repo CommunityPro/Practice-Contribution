@@ -71,6 +71,18 @@
 <!-- End of column-6 -->
 <!-- Start of column-7 -->
 <td align="center">
+  <a href="https://github.com/pablo-clueless">
+    <img
+      src="https://avatars.githubusercontent.com/u/68032187?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Samson OKunola</sub>
+  </a>
+</td>
+<!-- End of column-7 -->
+<!-- Start of column-8 -->
+<td align="center">
   <a href="https://github.com/ajormoses">
     <img
       src="https://avatars.githubusercontent.com/ajormoses"
@@ -80,10 +92,10 @@
     <sub>Ajor Moses</sub>
   </a>
 </td>
-<!-- End of column-7 -->
+<!-- End of column-8 -->
 </tr>
   
-  <!-- Start of column-8 -->
+  <!-- Start of column-9 -->
 <td align="center">
   <a href="https://github.com/mikey247">
     <img
@@ -94,5 +106,5 @@
     <sub>Michael Umeokoli</sub>
   </a>
 </td>
-<!-- End of column-8 -->
+<!-- End of column-9 -->
 </table>
