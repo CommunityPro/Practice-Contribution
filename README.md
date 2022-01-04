@@ -9,91 +9,127 @@
 <img src="https://forthebadge.com/images/badges/open-source.svg">
 </p>
 
-
-
 <p align="center">This repo is dedicated to helping individuals contribute to open source for the first time.</p>
-<p align="center">Before you contribute, read the following <a href="">Contribution Guidelines</a> before making a pull request(PR). If you have any questions or assistance, you can reach out to the repo maintainers and administrators <a href="">here</a></p>
+<p align="center">Before you contribute, read the following <a href="">Contribution Guidelines</a> before making a pull request(PR). If you have any questions or assistance, you can reach out to the repo maintainers and administrators <a href="https://github.com/orgs/CommunityPro/teams/admins">here</a></p>
 
 <br>
 
-<!-- Image of what the contribution looks like -->
 <p>This is a preview of what the contribution looks like. <a href="https://github.com/CommunityPro/Practice-Contribution/blob/main/Contributors.md">Preview</a></p>
-<a href="https://github.com/CommunityPro/Practice-Contribution/blob/main/Contributors.md"><img src="https://user-images.githubusercontent.com/62628408/146686703-e1ee2159-ccfa-4989-92f9-6471feae19fa.png"></a>
+<a href="https://github.com/CommunityPro/Practice-Contribution/blob/main/Contributors.md"><img src="https://user-images.githubusercontent.com/62628408/147990253-74383bd2-415f-4e03-8c09-616a9a55e62d.png" width="100%"></a>
 
-## ⚙️ How to Contribute
-<p>Follow this tutorial to contribute.</p>
+<h1 align="center">How to Contribute</h1>
+<p align="center">Follow this tutorial to contribute.</p> 
+ 
+ 
+### 1. Install git
+<a href="https://git-scm.com/" target="_blank"><img src="https://git-scm.com/images/logo@2x.png" width="150px" alt="Git logo"></a>
 
-## 1. Install git.
-Git is a version control system that is used for tracking changes in a file. Git is an imporant tool we'll be using to work on our github projects. 
-If you want to learn how to install git without any errors, follow this <a href="https://git-scm.com/downloads">tutorial</a>, if not, install it and move on to the next step.
-
-## 2. Fork this repository.
-Fork this repository using the fork button on the top right of this page, or the pencil icon on the right. 
-This will create a copy with your name. 
+Git is a version control system that is used for tracking changes in a file. Git is an imporant tool we'll be using to work on our github projects.
+If you want to learn how to install git without any errors, follow this <a href="https://github.com/github/training-kit/blob/master/git-guides/install-git.md">tutorial</a>, if not, install it and move on to the next step.
 
 <br>
+
+### 2. Fork this repository.
 
 <img src="https://user-images.githubusercontent.com/62628408/147513059-5b617b8d-5fcb-4f8c-8563-17ba03aec352.png" width="100%">
+Fork this repository using the fork button on the top right of this page, or the pencil icon on the right. 
+This will create a copy of the project with your name.
 
-## 3. Clone your fork.
-Cloning a project is simply taking that project and making a copy on your local machine. To clone this project, click the button on green that says `code` and on the drop down box, copy the URL of the project in the box, and open up your git bash terminal and type in the following command: `git clone <URL you just copied>`
+<br>
+
+### 3. Clone your fork.
+
+<img src="https://user-images.githubusercontent.com/62628408/147514033-5f96da6e-4318-4fe8-85ad-3176e1e01600.png" width="100%">
+Cloning a project is simply taking that project and making a copy on your local machine. 
+To clone this project, click the button on green that says code and on the drop down box, copy the URL of the project in the box and open up your git bash terminal and type in the following command `git clone "URL you just copied`
 
 It should look like this:
 
 ```
-git clone https://github.com/Evavic44/Practice-Contribution.git 
+git clone https://github.com/your_name/Practice-Contribution.git
 ```
-which will clone the project in your local machine.
 
-<br/>
-<img src="https://user-images.githubusercontent.com/62628408/147514033-5f96da6e-4318-4fe8-85ad-3176e1e01600.png" width="100%">
+Where **"your_name"** will be your username on GitHub. Running this command will clone the project in your local machine.
 
-## 4. Switch directory
-Next switch into the folder of the repo we just cloned by typing this command:
+<br>
+
+### 4. Switch directory
+
+Next switch into the folder of the repo we just cloned by typing this command in your bash terminal:
+
 ```
 cd <repository name>
 ```
-cd stands for "change directory" and the `<repository name>` is the name of the project repo. E.g **practice-contribution**
 
-## 5. Point upstream branch to origin
+cd stands for "change directory" and the **repository name** is the name of the project repo: **practice-contribution**
+therefore the command will be `cd practice-contribution`
+
+<img src="https://user-images.githubusercontent.com/62628408/147890070-4a6413e6-15a5-4223-9fc3-bd94f1e5f708.png" widt="100%" alt="change directory screenshot of git">
+You can see from the image above, we switched into a new directory called practice-contribution
+
+<br>
+
+### 5. Point origin branch to upstream
+
+We need to point our forked repo(origin) to the upstream(source) repo: To do that, type the command
+
 ```
-git remote add upstream <URL of main repo>
+git remote add upstream <URL of source repo>
 ```
 
-We need to point our forked repo to the origin repo: where origin repo is the URL of the original repo we forked E.g `git remote add upstream https://github.com/CommunityPro/Practice-Contribution.git`
+`git remote add upstream https://github.com/CommunityPro/Practice-Contribution.git`
 
-## 6. Create branch
-In other to start making our changes, we need to create a new branch to work from.
+<br>
+
+### 6. Create branch
+
+Now we have successfully pointed our origin repo to upstream, we can now create a new branch which we'll be making our changes from.
+To create a branch, type the command:
+
 ```
 git checkout -b <branch name>
 ```
 
-You can name the branch anything you want, but for the sake of this project, name your branch `add-yourname` (replace yourname with your own name). E.g `git checkout -b add-bruce` 
+You can name the branch anything you want, but for the sake of this project, name your branch `add-yourname` (replace yourname with your own name).
+**E.g** `git checkout -b add-bruce`
 
-## 7. Make your changes.
-Copy the code below, edit it with your own information and then paste it into the <a href="https://github.com/CommunityPro/Practice-Contribution/edit/main/Contributors.md">Contributors</a> file of the **Practice Contribution** repo
+<br>
+
+### 7. Make your changes.
+
+Copy the code below, edit it with your own information and then paste it into the <a href="https://github.com/CommunityPro/Practice-Contribution/edit/main/Contributors.md">Contributors</a> file of this repo
 
 ```html
 <!-- Start of column-1 -->
 <td align="center">
   <a href="https://github.com/evavic44">
-    <img src="https://avatars.githubusercontent.com/u/62628408?v=4" width="100px"> <br/>
+    <img
+      src="https://avatars.githubusercontent.com/u/62628408?v=4"
+      width="100px"
+    />
+    <br />
     <sub>Victor Eke</sub>
   </a>
 </td>
 <!-- End of column-1 -->
 ```
 
+<br>
 
 ### A few things to change:
-- Replace the link with your own profile link 
-```<a href="your link here"></a>```
+
+- Replace the link with your own profile link
+  `<a href="your link here"></a>`
 
 - Right click on your github profile image and copy the image link and paste inside the `img` tag. Leave the `width=""` property
 
 ```html
-<img src="your profile image link here" width="100px">
+<img src="your profile image link here" width="100px" />
 ```
+
+Just go to your GitHub profile page to get your profile image and link.
+
+<img src="https://user-images.githubusercontent.com/62628408/147896530-f94c17f7-f064-4e8d-8bc1-af2c1f63559d.png" width="100%" alt="profile_page">
 
 - Repalce the sub tag with your own name.
 
@@ -101,23 +137,26 @@ Copy the code below, edit it with your own information and then paste it into th
 <sub>Your Name</sub>
 ```
 
-Then save your changes. 
+Then save your changes.
 
-## 8. Make a commit
+<br>
+
+### 8. Make a commit
+
 Now we're done adding our profile, we need to make a commit to save that file added.
 on the git bash terminal, type
 
 ```
 git status
 ```
+
 This will show us a list of all changes made.
 
 Next do a git add .(period) which means, add every changes made.
+
 ```
 git add .
 ```
-
-<!--Screenshot of git add .-->
 
 Now we can write our commit message.
 
@@ -127,26 +166,40 @@ git commit -m 'Add bruce wayne'
 
 Change Bruce Wayne to your own name.
 
-## 9. Push changes to GitHub
+<br>
+
+### 9. Push changes to GitHub
+
 Now we have sucessfully added our profile, we can now push the changes to GitHub. Use the command below to do that.
 
 ```
 git push origin <branch name>
 ```
 
-Replace the <branch name> with the name of the branch you created earlier. E.g `git push origin add-bruce. 
-  
-Our changes should get pushed to the main repository and we can now do a pull request.
-  
-  
-## Make a pull request
-<!-- Screenshot of PR -->
-- Click the PR button and click `create pull request`
-- Guidelines on how to add your profile will be automatically pre-populated for you, follow the instructions and fill in the right details and submit.
-  
-You have successfully made a pull request(PR) the standard way for most GitHub projects. Congratulations! 🤩
-Just sit back and relax as I merge you changes immediately.
-  
-Thank you for taking the time to check out this tutorial, do you need any help, question or feedback, or do you find any step in this tutorial confusing, feel free to contact any of the repo managers on our <a href="https://github.com/CommunityPro/Practice-Contribution/discussions/15" target="_blank">discussions</a> to drop your questions and we'll attend to you as soon as possible. 
+Replace the `<branch name>` with the name of the branch you created earlier. E.g `git push origin add-bruce`.
 
- 
+Our changes should get pushed to the main repository and we can now do a pull request.
+
+<br>  
+  
+### 10. Make a pull request(PR)
+Now when you check the repo your forked, you should see the changes we just pushed to GitHub
+
+<img src="https://user-images.githubusercontent.com/62628408/147897806-bfeeb6a0-9370-47e4-81be-1e735dda402d.png" alt="pull_request">
+
+<br>
+
+- Next click the `compare and Pull request` button which will open up the pull request in a new tab.
+  <img src="https://user-images.githubusercontent.com/62628408/147908216-86212e5a-6ba4-4d77-9815-1395be82e6ec.png" width="100%" alt="open pull request">
+
+<br>
+
+- Guidelines on how to add your profile will be automatically pre-populated for you, follow the instructions and fill in the right details and click create pull request.
+  <img src="https://user-images.githubusercontent.com/62628408/147913633-a841c880-5b05-4cbd-a05e-8d715a4069e1.png" width="100%" alt="create-pull-request">
+
+You have successfully made a pull request(PR) the standard way for most GitHub projects. Congratulations! 🤩
+Just sit back and relax as your changes gets merged immediately.
+
+Thank you for taking the time to check out this tutorial, do you need any help, question or feedback, or do you find any step in this tutorial confusing, feel free to contact any of the repo managers on our <a href="https://github.com/CommunityPro/Practice-Contribution/discussions/15" target="_blank">discussions</a> to drop your questions and we'll attend to you as soon as possible.
+
+<img src="https://user-images.githubusercontent.com/62628408/147913211-e2e7c011-e196-4255-9cec-bed3f6a65813.png" width="100%" alt="motivational banner">
