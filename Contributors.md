@@ -93,7 +93,6 @@
   </a>
 </td>
 <!-- End of column-8 -->
-</tr>
   
   <!-- Start of column-9 -->
 <td align="center">
@@ -107,9 +106,8 @@
   </a>
 </td>
 <!-- End of column-9 -->
-</table>
 
-<!-- Start of column-1 -->
+<!-- Start of column-10 -->
 <td align="center">
   <a href="https://github.com/damtrix">
     <img
@@ -120,4 +118,8 @@
     <sub>Oludamola Onarinde</sub>
   </a>
 </td>
-<!-- End of column-1 -->
+<!-- End of column-10 -->
+
+</tr>
+
+</table>
