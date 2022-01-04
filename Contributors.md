@@ -133,5 +133,17 @@
   </a>
 </td>
 <!-- End of column-11 -->
+ <!-- Start of column-12 -->
+<td align="center">
+  <a href="https://github.com/0tuedon">
+    <img
+      src="https://avatars.githubusercontent.com/u/90271995?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Tuedon Tuoyo</sub>
+  </a>
+</td>
+<!-- End of column-12 -->
 </tr>
 </table>
