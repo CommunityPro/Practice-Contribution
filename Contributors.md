@@ -183,6 +183,18 @@
   </a>
 </td>
 <!-- End of column-15 -->
+<!-- Start of column-16 -->
+<td align="center">
+  <a href="https://github.com/Benn1440">
+    <img
+      src="https://avatars.githubusercontent.com/u/67696393?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Benedict Okafor</sub>
+  </a>
+</td>
+<!-- End of column-16-->
 </tr>
 </table>
 
