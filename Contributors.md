@@ -147,6 +147,18 @@
 <!-- End of column-12 -->
 <!-- Start of column-13 -->
 <td align="center">
+  <a href="https://github.com/Analog-ng">
+    <img
+      src="https://avatars.githubusercontent.com/u/74217320?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Oluwabamise Olatunji</sub>
+  </a>
+</td>
+<!-- End of column-13 -->
+<!-- Start of column-14 -->  
+<td>
   <a href="https://github.com/sukodes">
     <img
       src="https://avatars.githubusercontent.com/u/80556643?v=4"
@@ -207,6 +219,18 @@
   </a>
 </td>
 <!-- End of column-17 -->
+<!-- Start of column-18 -->
+<td align="center">
+  <a href="https://github.com/Analog-ng">
+    <img
+      src="https://avatars.githubusercontent.com/u/74217320?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Oluwabamise Olatunji</sub>
+  </a>
+</td>
+<!-- End of column-18 -->
 </tr>
 </table>
 
