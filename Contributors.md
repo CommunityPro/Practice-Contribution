@@ -231,8 +231,6 @@
   </a>
 </td>
 <!-- End of column-18 -->
-</tr>
-</table>
 <!-- Start of column-19 -->
 <td align="center">
   <a href="https://github.com/winniffy">
@@ -245,5 +243,3 @@
   </a>
 </td>
 <!-- End of column-19 -->
-</tr>
-</table>
