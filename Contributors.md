@@ -147,6 +147,18 @@
 <!-- End of column-12 -->
 <!-- Start of column-13 -->
 <td align="center">
+  <a href="https://github.com/sukodes">
+    <img
+      src="https://avatars.githubusercontent.com/u/80556643?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Olasunkanmi Balogun</sub>
+  </a>
+ </td>
+ <!-- End of column-13 -->
+ <!-- Start of column-14 -->
+  <td align="center">
   <a href="https://github.com/daveeedu">
     <img
       src="https://avatars.githubusercontent.com/u/10342715?v=4"
@@ -156,6 +168,6 @@
     <sub>David Edu</sub>
   </a>
 </td>
-<!-- End of column-13 -->
+<!-- End of column-14 -->
 </tr>
 </table>
