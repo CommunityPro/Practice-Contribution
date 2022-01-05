@@ -170,9 +170,8 @@
 </td>
 <!-- End of column-14 -->
 </tr>
-</table>
-
-<!-- Start of column-14 -->
+<tr>  
+<!-- Start of column-15 -->
 <td align="center">
   <a href="https://github.com/ogbeidebest">
     <img
@@ -183,4 +182,7 @@
     <sub>Ogbeide Osadolor Best</sub>
   </a>
 </td>
-<!-- End of column-14 -->
+<!-- End of column-15 -->
+</tr>
+</table>
+
