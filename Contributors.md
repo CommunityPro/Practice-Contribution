@@ -145,9 +145,94 @@
   </a>
 </td>
 <!-- End of column-12 -->
+<!-- Start of column-13 -->
+<td align="center">
+  <a href="https://github.com/Analog-ng">
+    <img
+      src="https://avatars.githubusercontent.com/u/74217320?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Oluwabamise Olatunji</sub>
+  </a>
+</td>
+<!-- End of column-13 -->
+<!-- Start of column-14 -->  
+<td>
+  <a href="https://github.com/sukodes">
+    <img
+      src="https://avatars.githubusercontent.com/u/80556643?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Olasunkanmi Balogun</sub>
+  </a>
+ </td>
+ <!-- End of column-13 -->
+ <!-- Start of column-14 -->
+  <td align="center">
+  <a href="https://github.com/daveeedu">
+    <img
+      src="https://avatars.githubusercontent.com/u/10342715?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>David Edu</sub>
+  </a>
+</td>
+<!-- End of column-14 -->
+</tr>
+<tr>  
+<!-- Start of column-15 -->
+<td align="center">
+  <a href="https://github.com/ogbeidebest">
+    <img
+      src="https://avatars.githubusercontent.com/u/78824140?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Ogbeide Osadolor Best</sub>
+  </a>
+</td>
+<!-- End of column-15 -->
+<!-- Start of column-16 -->
+<td align="center">
+  <a href="https://github.com/Benn1440">
+    <img
+      src="https://avatars.githubusercontent.com/u/67696393?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Benedict Okafor</sub>
+  </a>
+</td>
+<!-- End of column-16-->
+<!-- Start of column-17 -->
+<td align="center">
+  <a href="https://github.com/walemust">
+    <img
+      src="https://avatars.githubusercontent.com/u/52992651?s=40&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Mustapha Olawale</sub>
+  </a>
+</td>
+<!-- End of column-17 -->
+<!-- Start of column-18 -->
+<td align="center">
+  <a href="https://github.com/Analog-ng">
+    <img
+      src="https://avatars.githubusercontent.com/u/74217320?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Oluwabamise Olatunji</sub>
+  </a>
+</td>
+<!-- End of column-18 -->
 </tr>
 </table>
-
  <!-- Start of column-13 -->
 <td align="center">
   <a href="https://github.com/winniffy">
