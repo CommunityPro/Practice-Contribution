@@ -147,3 +147,16 @@
 <!-- End of column-12 -->
 </tr>
 </table>
+
+<!-- Start of column-14 -->
+<td align="center">
+  <a href="https://github.com/ogbeidebest">
+    <img
+      src="https://avatars.githubusercontent.com/u/78824140?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Ogbeide Best</sub>
+  </a>
+</td>
+<!-- End of column-14 -->
