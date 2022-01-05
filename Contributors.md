@@ -147,3 +147,15 @@
 <!-- End of column-12 -->
 </tr>
 </table>
+<!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/walemust">
+    <img
+      src="https://avatars.githubusercontent.com/u/52992651?s=40&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Mustapha Olawale</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
