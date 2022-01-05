@@ -69,6 +69,18 @@
   </a>
 </td>
 <!-- End of column-5 -->
+<!-- Start of column -->
+<td align="center">
+  <a href="https://github.com/Analog-ng">
+    <img
+      src="https://avatars.githubusercontent.com/u/74217320?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Oluwabamise Olatunji</sub>
+  </a>
+</td>
+<!-- End of column -->
 <!-- Start of column-6 -->
 <td align="center">
   <a href="https://github.com/ajormoses">
