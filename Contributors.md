@@ -145,5 +145,17 @@
   </a>
 </td>
 <!-- End of column-12 -->
+<!-- Start of column-13 -->
+<td align="center">
+  <a href="https://github.com/sukodes">
+    <img
+      src="https://avatars.githubusercontent.com/u/80556643?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Olasunkanmi Balogun</sub>
+  </a>
+</td>
+<!-- End of column-13 -->
 </tr>
 </table>
