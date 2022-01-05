@@ -156,7 +156,7 @@
       width="100px"
     />
     <br />
-    <sub>Ogbeide Best</sub>
+    <sub>Ogbeide Osadolor Best</sub>
   </a>
 </td>
 <!-- End of column-14 -->
