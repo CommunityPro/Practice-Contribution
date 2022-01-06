@@ -218,8 +218,20 @@
     <br />
     <sub>Olasunkanmi Balogun</sub>
   </a>
- </td>
- <!-- End of column-18 -->
+</td>
+<!-- End of column-18 -->
+<!-- Start of column-19 -->
+<td align="center">
+  <a href="https://github.com/frankiefab100">
+    <img
+      src="https://avatars.githubusercontent.com/u/46662771?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Franklin Ohaegbulam</sub>
+  </a>
+</td>
+<!-- End of column-19 -->
 </tr>
 </table>
 
