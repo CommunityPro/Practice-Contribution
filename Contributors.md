@@ -157,18 +157,7 @@
   </a>
 </td>
 <!-- End of column-13 -->
-<!-- Start of column-14 -->  
-<td>
-  <a href="https://github.com/sukodes">
-    <img
-      src="https://avatars.githubusercontent.com/u/80556643?v=4"
-      width="100px"
-    />
-    <br />
-    <sub>Olasunkanmi Balogun</sub>
-  </a>
- </td>
- <!-- End of column-13 -->
+  
  <!-- Start of column-14 -->
   <td align="center">
   <a href="https://github.com/daveeedu">
@@ -220,14 +209,14 @@
 </td>
 <!-- End of column-17 -->
 <!-- Start of column-18 -->
-<td align="center">
-  <a href="https://github.com/Analog-ng">
+<td>
+  <a href="https://github.com/sukodes">
     <img
-      src="https://avatars.githubusercontent.com/u/74217320?v=4"
+      src="https://avatars.githubusercontent.com/u/80556643?v=4"
       width="100px"
     />
     <br />
-    <sub>Oluwabamise Olatunji</sub>
+    <sub>Olasunkanmi Balogun</sub>
   </a>
 </td>
 <!-- End of column-18 -->
