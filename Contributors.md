@@ -257,4 +257,18 @@
 </td>
 <!-- End of column-21 -->
 </tr>
+<tr>
+<!-- Start of column-22 -->
+<td align="center">
+  <a href="https://github.com/keleris32">
+    <img
+      src="https://avatars.githubusercontent.com/u/16802517?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Charles Ejiegbu</sub>
+  </a>
+</td>
+<!-- End of column-22 -->
+</tr>
 </table>
