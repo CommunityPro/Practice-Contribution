@@ -227,8 +227,6 @@
       src="https://avatars.githubusercontent.com/u/81039726?v=4"
       width="100px"
     />
-     width="100px"
-    />
     <br />
     <sub>Winner Umeh</sub>
    </a>
