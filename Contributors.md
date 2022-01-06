@@ -200,7 +200,7 @@
 <td align="center">
   <a href="https://github.com/walemust">
     <img
-      src="https://avatars.githubusercontent.com/u/52992651?s=40&v=4"
+      src="https://avatars.githubusercontent.com/u/52992651?v=4"
       width="100px"
     />
     <br />
