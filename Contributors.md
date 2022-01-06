@@ -244,5 +244,17 @@
   </a>
 </td>
 <!-- End of column-20 -->
+ <!-- Start of column-21 -->
+<td align="center">
+  <a href="https://github.com/Chuksmbanaso">
+    <img
+      src="https://avatars.githubusercontent.com/u/89187837?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Chuks Mbanaso</sub>
+  </a>
+</td>
+<!-- End of column-21 -->
 </tr>
 </table>
