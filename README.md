@@ -15,7 +15,8 @@
 <br>
 
 <p>This is a preview of what the contribution looks like. <a href="https://github.com/CommunityPro/Practice-Contribution/blob/main/Contributors.md">Preview</a></p>
-<a href="https://github.com/CommunityPro/Practice-Contribution/blob/main/Contributors.md"><img src="https://user-images.githubusercontent.com/62628408/147990253-74383bd2-415f-4e03-8c09-616a9a55e62d.png" width="100%"></a>
+<a href="https://github.com/CommunityPro/Practice-Contribution/blob/main/Contributors.md"><img src="https://user-images.githubusercontent.com/62628408/148415500-3af21956-0bd1-4db6-8105-f51f1a5255b8.png" width="100%"></a>
+
 
 <h1 align="center">How to Contribute</h1>
 <p align="center">Follow this tutorial to contribute.</p> 
@@ -65,7 +66,7 @@ cd stands for "change directory" and the **repository name** is the name of the 
 therefore the command will be `cd practice-contribution`
 
 <img src="https://user-images.githubusercontent.com/62628408/147890070-4a6413e6-15a5-4223-9fc3-bd94f1e5f708.png" widt="100%" alt="change directory screenshot of git">
-You can see from the image above, we switched into a new directory called practice-contribution
+You can see from the image above, we switched into a new directory called practice-contribution.
 
 <br>
 
