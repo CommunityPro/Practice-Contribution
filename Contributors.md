@@ -209,7 +209,7 @@
 </td>
 <!-- End of column-17 -->
 <!-- Start of column-18 -->
-<td>
+<td align="center">
   <a href="https://github.com/sukodes">
     <img
       src="https://avatars.githubusercontent.com/u/80556643?v=4"
@@ -222,6 +222,20 @@
 <!-- End of column-18 -->
 <!-- Start of column-19 -->
 <td align="center">
+  <a href="https://github.com/winniffy">
+    <img
+      src="https://avatars.githubusercontent.com/u/81039726?v=4"
+      width="100px"
+    />
+     width="100px"
+    />
+    <br />
+    <sub>Winner Umeh</sub>
+   </a>
+ </td>
+ <!-- End of column-19 -->
+ <!-- Start of column-20 -->
+<td align="center">
   <a href="https://github.com/frankiefab100">
     <img
       src="https://avatars.githubusercontent.com/u/46662771?v=4"
@@ -231,7 +245,6 @@
     <sub>Franklin Ohaegbulam</sub>
   </a>
 </td>
-<!-- End of column-19 -->
+<!-- End of column-20 -->
 </tr>
 </table>
-
