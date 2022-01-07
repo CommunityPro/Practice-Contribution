@@ -4,7 +4,7 @@
 
 <table>
 <tr>
-  
+
 <!-- Start of column-1 -->
 <td align="center">
   <a href="https://github.com/evavic44">
@@ -157,7 +157,7 @@
   </a>
 </td>
 <!-- End of column-13 -->
-  
+
  <!-- Start of column-14 -->
   <td align="center">
   <a href="https://github.com/daveeedu">
@@ -171,7 +171,7 @@
 </td>
 <!-- End of column-14 -->
 </tr>
-<tr>  
+<tr>
 <!-- Start of column-15 -->
 <td align="center">
   <a href="https://github.com/ogbeidebest">
@@ -200,7 +200,7 @@
 <td align="center">
   <a href="https://github.com/walemust">
     <img
-      src="https://avatars.githubusercontent.com/u/52992651?s=40&v=4"
+      src="https://avatars.githubusercontent.com/u/52992651?v=4"
       width="100px"
     />
     <br />
@@ -268,5 +268,43 @@
   </a>
 </td>
 <!-- End of column-22 -->
+</tr>
+<tr>
+<!-- Start of column-22 -->
+<td align="center">
+  <a href="https://github.com/keleris32">
+    <img
+      src="https://avatars.githubusercontent.com/u/16802517?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Charles Ejiegbu</sub>
+  </a>
+</td>
+<!-- End of column-22 -->
+<!-- Start of column-23 -->
+<td align="center">
+  <a href="https://github.com/okerekechinweotito">
+    <img
+      src="https://avatars.githubusercontent.com/u/65835404?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Okereke Chinweotito</sub>
+  </a>
+</td>
+<!-- End of column-23 -->
+<!-- Start of column-24 -->
+<td align="center">
+  <a href="https://github.com/williamssam">
+    <img
+      src="https://avatars.githubusercontent.com/u/68322437?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Williams Samuel</sub>
+  </a>
+</td>
+<!-- End of column-24 -->
 </tr>
 </table>
