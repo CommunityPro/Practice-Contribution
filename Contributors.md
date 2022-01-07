@@ -256,7 +256,10 @@
   </a>
 </td>
 <!-- End of column-21 -->
+</tr>
+
 <!-- Start of column-22 -->
+<tr>
 <td align="center">
   <a href="https://github.com/aycom366">
     <img
@@ -267,6 +270,6 @@
     <sub>Ayomide Bamigboye</sub>
   </a>
 </td>
-<!-- End of column-22 -->
 </tr>
+<!-- End of column-22 -->
 </table>
