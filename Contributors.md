@@ -270,5 +270,17 @@
   </a>
 </td>
 <!-- End of column-22 -->
+<!-- Start of column-23 -->
+<td align="center">
+  <a href="https://github.com/okerekechinweotito">
+    <img
+      src="https://avatars.githubusercontent.com/u/65835404?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Okereke Chinweotito</sub>
+  </a>
+</td>
+<!-- End of column-23 -->
 </tr>
 </table>
