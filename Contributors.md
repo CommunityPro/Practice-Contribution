@@ -257,6 +257,20 @@
 </td>
 <!-- End of column-21 -->
 </tr>
+
+<!-- Start of column-22 -->
+<tr>
+<td align="center">
+  <a href="https://github.com/aycom366">
+    <img
+      src="https://avatars.githubusercontent.com/u/42998943?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Ayomide Bamigboye</sub>
+  </a>
+</td>
+</tr>
 <tr>
 <!-- Start of column-22 -->
 <td align="center">
