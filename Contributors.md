@@ -294,5 +294,17 @@
   </a>
 </td>
 <!-- End of column-24 -->
+<!-- Start of column-25 -->
+<td align="center">
+  <a href="https://github.com/blade-01">
+    <img
+      src="https://avatars.githubusercontent.com/u/47092407?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Animashaun Taofiq</sub>
+  </a>
+</td>
+<!-- End of column-25 -->
 </tr>
 </table>
