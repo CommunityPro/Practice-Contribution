@@ -298,7 +298,7 @@
 <td align="center">
   <a href="https://github.com/blade-01">
     <img
-      src="https://avatars.githubusercontent.com/u/47092407?s=40&v=4"
+      src="https://avatars.githubusercontent.com/u/47092407?v=4"
       width="100px"
     />
     <br />
