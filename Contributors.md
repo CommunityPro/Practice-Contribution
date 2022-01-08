@@ -232,6 +232,18 @@
    </a>
  </td>
  <!-- End of column-19 -->
+ <!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/Boye95">
+    <img
+      src="https://avatars.githubusercontent.com/u/74235313?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Adeboye Folaranmi</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
  <!-- Start of column-20 -->
 <td align="center">
   <a href="https://github.com/frankiefab100">
