@@ -319,5 +319,17 @@
   </a>
 </td>
 <!-- End of column-26 -->
+<!-- Start of column-27 -->
+<td align="center">
+  <a href="https://github.com/Malvin-mi">
+    <img
+      src="https://avatars.githubusercontent.com/u/86524620?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Michael Ogunyemi</sub>
+  </a>
+</td>
+<!-- End of column-27 -->
 </tr>
 </table>
