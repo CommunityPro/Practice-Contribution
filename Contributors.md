@@ -257,8 +257,21 @@
 </td>
 <!-- End of column-21 -->
 </tr>
+  
 <tr>
 <!-- Start of column-22 -->
+<td align="center">
+  <a href="https://github.com/aycom366">
+    <img
+      src="https://avatars.githubusercontent.com/u/42998943?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Ayomide Bamigboye</sub>
+  </a>
+</td>
+<!-- End of column-22 -->
+<!-- Start of column-23 -->
 <td align="center">
   <a href="https://github.com/keleris32">
     <img
@@ -269,8 +282,8 @@
     <sub>Charles Ejiegbu</sub>
   </a>
 </td>
-<!-- End of column-22 -->
-<!-- Start of column-23 -->
+<!-- End of column-23 -->
+<!-- Start of column-24 -->
 <td align="center">
   <a href="https://github.com/okerekechinweotito">
     <img
@@ -281,8 +294,8 @@
     <sub>Okereke Chinweotito</sub>
   </a>
 </td>
-<!-- End of column-23 -->
-<!-- Start of column-24 -->
+<!-- End of column-24 -->
+<!-- Start of column-25 -->
 <td align="center">
   <a href="https://github.com/williamssam">
     <img
@@ -293,6 +306,7 @@
     <sub>Williams Samuel</sub>
   </a>
 </td>
+<<<<<<< HEAD
 <!-- End of column-24 -->
 <!-- Start of column-25 -->
 <td align="center">
@@ -306,5 +320,30 @@
   </a>
 </td>
 <!-- End of column-25 -->
+<!-- Start of column-26 -->
+<td align="center">
+  <a href="https://github.com/blade-01">
+    <img
+      src="https://avatars.githubusercontent.com/u/47092407?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Animashaun Taofiq</sub>
+  </a>
+</td>
+<!-- End of column-26 -->
+<!-- Start of column-27 -->
+<td align="center">
+  <a href="https://github.com/Malvin-mi">
+    <img
+      src="https://avatars.githubusercontent.com/u/86524620?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Michael Ogunyemi</sub>
+  </a>
+</td>
+<!-- End of column-27 -->
+>>>>>>> upstream/main
 </tr>
 </table>
