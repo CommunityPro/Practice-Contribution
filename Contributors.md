@@ -306,7 +306,6 @@
     <sub>Williams Samuel</sub>
   </a>
 </td>
-<<<<<<< HEAD
 <!-- End of column-24 -->
 <!-- Start of column-25 -->
 <td align="center">
@@ -344,6 +343,5 @@
   </a>
 </td>
 <!-- End of column-27 -->
->>>>>>> upstream/main
 </tr>
 </table>
