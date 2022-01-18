@@ -331,5 +331,17 @@
   </a>
 </td>
 <!-- End of column-27 -->
+  <!-- Start of column-28 -->
+<td align="center">
+  <a href="https://github.com/AyoOlu1">
+    <img
+      src="https://avatars.githubusercontent.com/u/72816381?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Victor Oluwayemi</sub>
+  </a>
+</td>
+<!-- End of column-28 -->
 </tr>
 </table>
