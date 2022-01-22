@@ -344,4 +344,18 @@
 </td>
 <!-- End of column-28 -->
 </tr>
+<tr>
+  <!-- Start of column-29 -->
+<td align="center">
+  <a href="https://github.com/manishbajagai2">
+    <img
+      src="https://avatars.githubusercontent.com/u/62448303?s=400&u=bc19d47613759bb6c3a48ba0b5574d0da85daf25&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Manish Bajagai</sub>
+  </a>
+</td>
+<!-- End of column-29 -->
+</tr>
 </table>
