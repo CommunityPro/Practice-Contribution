@@ -357,5 +357,16 @@
   </a>
 </td>
 <!-- End of column-29 -->
+<!-- Start of column-30 -->
+<td align="center">
+  <a href="https://github.com/lucadavid075">
+    <img 
+      src="https://avatars.githubusercontent.com/u/54486212?s=96&v=4" 
+      width="100px"
+    > <br/>
+    <sub>Luke David</sub>
+  </a>
+</td>
+<!-- End of column-30 -->
 </tr>
 </table>
