@@ -379,5 +379,17 @@
   </a>
 </td>
 <!-- End of column-31 -->
+<!-- Start of column-32 -->
+<td align="center">
+  <a href="https://github.com/OsujiPius">
+    <img
+      src="https://avatars.githubusercontent.com/u/94569961?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Pius Osuji</sub>
+  </a>
+</td>
+<!-- End of column-32 -->
 </tr>
 </table>
