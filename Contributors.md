@@ -368,5 +368,16 @@
   </a>
 </td>
 <!-- End of column-30 -->
+  <!-- Start of column-31 -->
+<td align="center">
+  <a href="https://github.com/thuongtruong1009">
+    <img 
+      src="https://avatars.githubusercontent.com/u/71834167?v=4" 
+      width="100px"
+    > <br/>
+    <sub>Tran Nguyen Thuong Truong</sub>
+  </a>
+</td>
+<!-- End of column-31 -->
 </tr>
 </table>
