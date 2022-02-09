@@ -391,5 +391,17 @@
   </a>
 </td>
 <!-- End of column-32 -->
+<!-- Start of column-33 -->
+<td align="center">
+  <a href="https://github.com/moraneharsh">
+    <img
+      src="https://avatars.githubusercontent.com/u/61085254?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Harsh Kumar Morane</sub>
+  </a>
+</td>
+<!-- End of column-33 -->
 </tr>
 </table>
