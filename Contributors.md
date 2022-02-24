@@ -4,7 +4,6 @@
 
 <table>
 <tr>
-
 <!-- Start of column-1 -->
 <td align="center">
   <a href="https://github.com/evavic44">
@@ -405,6 +404,18 @@
 <!-- End of column-33 -->
 <!-- Start of column-34 -->
 <td align="center">
+  <a href="https://github.com/segunajibola">
+    <img
+      src="https://avatars.githubusercontent.com/u/74687658?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Segun Ajibola</sub>
+  </a>
+</td>
+<!-- End of column-34 -->
+<!-- Start of column-35 -->
+<td align="center">
   <a href="https://github.com/AvidCoder101">
     <img
       src="https://avatars.githubusercontent.com/u/70807684?v=4"
@@ -414,6 +425,6 @@
     <sub>Avid Coder</sub>
   </a>
 </td>
-<!-- End of column-34 -->
+<!-- End of column-35 -->
 </tr>
 </table>
