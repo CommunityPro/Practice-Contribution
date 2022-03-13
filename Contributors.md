@@ -426,5 +426,17 @@
   </a>
 </td>
 <!-- End of column-35 -->
+<!-- Start of column-36 -->
+<td align="center">
+  <a href="https://github.com/RedEdge967">
+    <img
+      src="https://avatars.githubusercontent.com/u/91379432?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Chandula Janith</sub>
+  </a>
+</td>
+<!-- End of column-36 -->
 </tr>
 </table>
