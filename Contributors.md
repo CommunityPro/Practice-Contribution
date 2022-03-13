@@ -426,6 +426,7 @@
   </a>
 </td>
 <!-- End of column-35 -->
+<tr>
 <!-- Start of column-36 -->
 <td align="center">
   <a href="https://github.com/RedEdge967">
@@ -439,4 +440,3 @@
 </td>
 <!-- End of column-36 -->
 </tr>
-</table>
