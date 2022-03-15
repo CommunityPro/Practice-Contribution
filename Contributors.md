@@ -439,5 +439,29 @@
   </a>
 </td>
 <!-- End of column-36 -->
+<!-- Start of column-35 -->
+<td align="center">
+  <a href="https://github.com/AvidCoder101">
+    <img
+      src="https://avatars.githubusercontent.com/u/70807684?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Avid Coder</sub>
+  </a>
+</td>
+<!-- End of column-35 -->
+<!-- Start of column-37 -->
+<td align="center">
+  <a href="https://github.com/eunit99">
+    <img
+      src="https://avatars.githubusercontent.com/u/24845008?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Eunit</sub>
+  </a>
+</td>
+<!-- End of column-37 -->
 </tr>
 </table>
