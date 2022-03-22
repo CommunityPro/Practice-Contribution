@@ -439,5 +439,17 @@
   </a>
 </td>
 <!-- End of column-36 -->
+<!-- Start of column-37 -->
+<td align="center">
+  <a href="https://github.com/Sagar0-0">
+    <img
+      src="https://avatars.githubusercontent.com/u/85388413?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Sagar Malhotra</sub>
+  </a>
+</td>
+<!-- End of column-37 -->
 </tr>
 </table>
