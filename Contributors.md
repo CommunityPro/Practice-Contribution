@@ -451,5 +451,17 @@
   </a>
 </td>
 <!-- End of column-37 -->
+  <!-- Start of column-37 -->
+<td align="center">
+  <a href="https://github.com/Rajspeaks">
+    <img
+      src="https://avatars.githubusercontent.com/u/44817007?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Rajdeep Das</sub>
+  </a>
+</td>
+<!-- End of column-37 -->
 </tr>
 </table>
