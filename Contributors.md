@@ -463,5 +463,15 @@
   </a>
 </td>
 <!-- End of column-37 -->
+  <td align="center">
+  <a href="https://github.com/Arafat-erasung">
+    <img
+      src="https://avatars.githubusercontent.com/u/67491455?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Arafat Erasung</sub>
+  </a>
+</td>
 </tr>
 </table>
