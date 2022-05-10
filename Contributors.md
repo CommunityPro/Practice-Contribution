@@ -451,7 +451,7 @@
   </a>
 </td>
 <!-- End of column-37 -->
-  <!-- Start of column-37 -->
+<!-- Start of column-38 -->
 <td align="center">
   <a href="https://github.com/Rajspeaks">
     <img
@@ -462,7 +462,8 @@
     <sub>Rajdeep Das</sub>
   </a>
 </td>
-<!-- End of column-37 -->
+<!-- End of column-38 -->
+<!-- Start of column-39 -->
   <td align="center">
   <a href="https://github.com/Arafat-erasung">
     <img
@@ -473,5 +474,18 @@
     <sub>Arafat Erasung</sub>
   </a>
 </td>
+<!-- End of column-39 -->
+<!-- Start of column-40 -->
+<td align="center">
+  <a href="https://github.com/devenes">
+    <img
+      src="https://avatars.githubusercontent.com/u/66560757?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Enes</sub>
+  </a>
+</td>
+<!-- End of column-40 -->
 </tr>
 </table>
