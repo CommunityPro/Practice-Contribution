@@ -487,5 +487,17 @@
   </a>
 </td>
 <!-- End of column-40 -->
+  <!-- Start of column-41 -->
+<td align="center">
+  <a href="https://github.com/eunit99">
+    <img
+      src="https://avatars.githubusercontent.com/u/24845008?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Eunit</sub>
+  </a>
+</td>
+<!-- End of column-41 -->
 </tr>
 </table>
