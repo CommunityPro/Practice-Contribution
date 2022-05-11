@@ -256,7 +256,7 @@
 </td>
 <!-- End of column-21 -->
 </tr>
-  
+
 <tr>
 <!-- Start of column-22 -->
 <td align="center">
@@ -359,8 +359,8 @@
 <!-- Start of column-30 -->
 <td align="center">
   <a href="https://github.com/lucadavid075">
-    <img 
-      src="https://avatars.githubusercontent.com/u/54486212?s=96&v=4" 
+    <img
+      src="https://avatars.githubusercontent.com/u/54486212?s=96&v=4"
       width="100px"
     > <br/>
     <sub>Luke David</sub>
@@ -370,8 +370,8 @@
   <!-- Start of column-31 -->
 <td align="center">
   <a href="https://github.com/thuongtruong1009">
-    <img 
-      src="https://avatars.githubusercontent.com/u/71834167?v=4" 
+    <img
+      src="https://avatars.githubusercontent.com/u/71834167?v=4"
       width="100px"
     > <br/>
     <sub>Tran Nguyen Thuong Truong</sub>
