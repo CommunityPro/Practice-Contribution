@@ -487,7 +487,7 @@
   </a>
 </td>
 <!-- End of column-40 -->
-  <!-- Start of column-41 -->
+<!-- Start of column-41 -->
 <td align="center">
   <a href="https://github.com/eunit99">
     <img
@@ -499,5 +499,17 @@
   </a>
 </td>
 <!-- End of column-41 -->
+<!-- Start of column-42 -->
+<td align="center">
+  <a href="https://github.com/rolandexplore93">
+    <img
+      src="https://avatars.githubusercontent.com/u/63131597?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Orobola Roland Ogundipe</sub>
+  </a>
+</td>
+<!-- End of column-42 -->
 </tr>
 </table>
