@@ -511,5 +511,17 @@
   </a>
 </td>
 <!-- End of column-42 -->
+<!-- Start of column-43 -->
+<td align="center">
+  <a href="https://github.com/felistus">
+    <img
+      src="https://avatars.githubusercontent.com/u/40578478?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Ezeugo Felistus Obieze</sub>
+  </a>
+</td>
+<!-- End of column-43 -->
 </tr>
 </table>
