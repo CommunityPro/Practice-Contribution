@@ -511,6 +511,9 @@
   </a>
 </td>
 <!-- End of column-42 -->
+</tr>
+
+<tr>
 <!-- Start of column-43 -->
 <td align="center">
   <a href="https://github.com/felistus">
