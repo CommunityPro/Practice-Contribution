@@ -527,7 +527,6 @@
 </td>
 <!-- End of column-43 -->
 </tr>
-</table>
 
 <!-- Start of column-44 -->
 <td align="center">
@@ -541,3 +540,4 @@
   </a>
 </td>
 <!-- End of column-44 -->
+</table>
