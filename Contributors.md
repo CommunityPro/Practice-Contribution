@@ -526,5 +526,17 @@
   </a>
 </td>
 <!-- End of column-43 -->
+  <!-- Start of column-44 -->
+<td align="center">
+  <a href="https://github.com/EvanderInacio">
+    <img
+      src="https://avatars.githubusercontent.com/u/72362299?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Evander Inacio</sub>
+  </a>
+</td>
+<!-- End of column-44 -->
 </tr>
 </table>
