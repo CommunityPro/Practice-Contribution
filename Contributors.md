@@ -526,10 +526,7 @@
   </a>
 </td>
 <!-- End of column-43 -->
-</tr>
-
-<tr>
-<!-- Start of column-44 -->
+  <!-- Start of column-44 -->
 <td align="center">
   <a href="https://github.com/EvanderInacio">
     <img
