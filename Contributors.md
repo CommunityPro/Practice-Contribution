@@ -538,5 +538,17 @@
   </a>
 </td>
 <!-- End of column-44 -->
+<!-- Start of column-45 -->
+<td align="center">
+  <a href="https://github.com/Vinyl-Davyl">
+    <img
+      src="https://avatars.githubusercontent.com/u/68241801?s=40&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Vinyl Davyl</sub>
+  </a>
+</td>
+<!-- End of column-45 -->
 </tr>
 </table>
