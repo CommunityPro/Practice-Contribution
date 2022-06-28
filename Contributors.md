@@ -550,5 +550,17 @@
   </a>
 </td>
 <!-- End of column-45 -->
+<!-- Start of column-46 -->
+<td align="center">
+  <a href="https://github.com/tomxdev">
+    <img
+      src="https://avatars.githubusercontent.com/u/2278662?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Tom</sub>
+  </a>
+</td>
+<!-- End of column-47 -->
 </tr>
 </table>
