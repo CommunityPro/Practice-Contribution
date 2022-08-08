@@ -574,5 +574,17 @@
   </a>
 </td>
 <!-- End of column-47 -->
+<!-- Start of column-48 -->
+<td align="center">
+  <a href="https://github.com/JohnL77">
+    <img
+      src="https://avatars.githubusercontent.com/u/86346923?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>John Ling</sub>
+  </a>
+</td>
+<!-- End of column-48 -->
 </tr>
 </table>
