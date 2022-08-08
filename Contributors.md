@@ -564,13 +564,13 @@
 <!-- End of column-46 -->
 <!-- Start of column-47 -->
 <td align="center">
-  <a href="https://github.com/JohnL77">
+  <a href="https://github.com/TropicolX">
     <img
-      src="https://avatars.githubusercontent.com/u/86346923?v=4"
+      src="https://avatars.githubusercontent.com/u/68024640?v=4"
       width="100px"
     />
     <br />
-    <sub>John Ling</sub>
+    <sub>Oluwabusayo Jacobs</sub>
   </a>
 </td>
 <!-- End of column-47 -->
