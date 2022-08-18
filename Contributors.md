@@ -590,7 +590,7 @@
 <td align="center">
   <a href="https://github.com/Satellite-system">
     <img
-      src="https://avatars.githubusercontent.com/u/62628408?v=4"
+      src="https://avatars.githubusercontent.com/u/67074308?s=40&v=4"
       width="100px"
     />
     <br />
