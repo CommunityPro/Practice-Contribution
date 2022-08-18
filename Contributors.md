@@ -586,5 +586,17 @@
   </a>
 </td>
 <!-- End of column-48 -->
+<!-- Start of column-49 -->
+<td align="center">
+  <a href="https://github.com/Satellite-system">
+    <img
+      src="https://avatars.githubusercontent.com/u/67074308?s=40&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Adarsh Urmaliya</sub>
+  </a>
+</td>
+<!-- End of column-49 -->
 </tr>
 </table>
