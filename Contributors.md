@@ -599,4 +599,18 @@
 </td>
 <!-- End of column-49 -->
 </tr>
+<tr>
+<!-- Start of column-50 -->
+<td align="center">
+  <a href="https://github.com/ifeanyichukwuOtiwa-sports">
+    <img
+      src="https://avatars.githubusercontent.com/u/101393404?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Ifeanyichukwu Otiwa</sub>
+  </a>
+</td>
+<!-- End of column-50 -->
+</tr>
 </table>
