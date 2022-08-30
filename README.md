@@ -132,7 +132,7 @@ Just go to your GitHub profile page to get your profile image and link.
 
 <img src="https://user-images.githubusercontent.com/62628408/147896530-f94c17f7-f064-4e8d-8bc1-af2c1f63559d.png" width="100%" alt="profile_page">
 
-- Repalce the sub tag with your own name.
+- Replace the sub tag with your own name.
 
 ```html
 <sub>Your Name</sub>
