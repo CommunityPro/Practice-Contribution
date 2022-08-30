@@ -612,5 +612,17 @@
   </a>
 </td>
 <!-- End of column-50 -->
+<!-- Start of column-51 -->
+<td align="center">
+  <a href="https://github.com/DanAdewole">
+    <img
+      src="https://avatars.githubusercontent.com/u/50157693?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Daniel Adewole</sub>
+  </a>
+</td>
+<!-- End of column-51 -->
 </tr>
 </table>
