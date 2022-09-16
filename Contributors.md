@@ -624,5 +624,17 @@
   </a>
 </td>
 <!-- End of column-51 -->
+<!-- Start of column-52 -->
+<td align="center">
+  <a href="https://github.com/leaxlang">
+    <img
+      src="https://avatars.githubusercontent.com/u/94092534?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Lea Lang</sub>
+  </a>
+</td>
+<!-- End of column-52 -->
 </tr>
 </table>
