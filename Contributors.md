@@ -4,6 +4,18 @@
 
 <table>
 <tr>
+  <!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/TenTraicion">
+    <img
+      src="https://avatars.githubusercontent.com/u/103281314?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>TenTraicion</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
 <!-- Start of column-1 -->
 <td align="center">
   <a href="https://github.com/evavic44">
