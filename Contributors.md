@@ -638,27 +638,16 @@
 </td>
 <!-- End of column-52 -->
 <!-- Start of column-53 -->
-
 <td align="center">
-
   <a href="https://github.com/TenTraicion">
-
     <img
-
       src="https://avatars.githubusercontent.com/u/103281314?v=4"
-
       width="100px"
-
     />
-
     <br />
-
     <sub>TenTraicion</sub>
-
   </a>
-
 </td>
-
 <!-- End of column-53 -->
 </tr>
 </table>
