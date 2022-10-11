@@ -649,5 +649,17 @@
   </a>
 </td>
 <!-- End of column-53 -->
+<!-- Start of column-54 -->
+<td align="center">
+  <a href="https://github.com/adyasha-m">
+    <img
+      src="https://avatars.githubusercontent.com/u/96990970?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>adivee</sub>
+  </a>
+</td>
+<!-- End of column-54 -->
 </tr>
 </table>
