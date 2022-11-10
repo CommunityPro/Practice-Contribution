@@ -661,5 +661,17 @@
   </a>
 </td>
 <!-- End of column-54 -->
+<!-- Start of column-55 -->
+<td align="center">
+  <a href="https://github.com/Topman-14">
+    <img
+      src="https://avatars.githubusercontent.com/u/98329531?s=96&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Tope Akinkuade</sub>
+  </a>
+</td>
+<!-- End of column-55 -->
 </tr>
 </table>
