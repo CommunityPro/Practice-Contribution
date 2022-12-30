@@ -673,5 +673,17 @@
   </a>
 </td>
 <!-- End of column-55 -->
+<!-- Start of column-56 -->
+<td align="center">
+  <a href="https://github.com/Jemeni11/">
+    <img
+      src="https://avatars.githubusercontent.com/u/52603291?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Emmanuel Jemeni</sub>
+  </a>
+</td>
+<!-- End of column-56 -->
 </tr>
 </table>
