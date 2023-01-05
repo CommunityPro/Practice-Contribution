@@ -686,6 +686,7 @@
 </td>
 <!-- End of column-56 -->
 <!-- Start of column-57 -->
+<tr>
 <td align="center">
   <a href="https://github.com/AbdurrahmanSogbesan">
     <img
