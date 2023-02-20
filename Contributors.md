@@ -698,5 +698,18 @@
   </a>
 </td>
 <!-- End of column-57 -->
+
+<!-- Start of column-58 -->
+<td align="center">
+  <a href="https://github.com/benjithorpe">
+    <img
+      src="https://avatars.githubusercontent.com/u/61359802?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Benjamin Thorpe</sub>
+  </a>
+</td>
+<!-- End of column-58 -->
 </tr>
 </table>
