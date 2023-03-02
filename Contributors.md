@@ -711,5 +711,19 @@
   </a>
 </td>
 <!-- End of column-58 -->
+
+<!-- Start of column-59 -->
+<td align="center">
+  <a href="https://github.com/Dibyajyoti2002">
+    <img
+      src="https://avatars.githubusercontent.com/u/72976359?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Dibyajyoti Ganguly</sub>
+  </a>
+</td>
+<!-- End of column-59 -->
+
 </tr>
 </table>
