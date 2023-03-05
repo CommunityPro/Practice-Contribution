@@ -5,6 +5,18 @@
 <table>
 <tr>
 
+<!-- Start of column-0 -->
+<td align="center">
+  <a href="https://github.com/Ambrosekol">
+    <img
+      src="https://avatars.githubusercontent.com/u/27368902?v=4" width="100px"
+    />
+    <br />
+    <sub>Ambrose K.</sub>
+  </a>
+</td>
+<!-- End of column-0 -->
+
 <!-- Start of column-1 -->
 <td align="center">
   <a href="https://github.com/evavic44">
