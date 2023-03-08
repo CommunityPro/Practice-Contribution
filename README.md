@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">This repo is dedicated to helping individuals contribute to open source for the first time.</p>
-<p align="center">Before you contribute, read the following <a href="">Contribution Guidelines</a> before making a pull request(PR). If you have any questions or assistance, you can reach out to the repo maintainers and administrators <a href="https://github.com/orgs/CommunityPro/teams/admins">here</a></p>
+<p align="center">Before you contribute, read the following <a href="https://github.com/CommunityPro/Practice-Contribution/blob/main/CONTRIBUTION-GUIDELINES.md">Contribution Guidelines</a> before making a pull request(PR). If you have any questions or assistance, you can reach out to the repo maintainers and administrators <a href="https://github.com/orgs/CommunityPro/teams/admins">here</a></p>
 
 <br>
 
