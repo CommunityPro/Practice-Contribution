@@ -725,7 +725,7 @@
 </td>
 <!-- End of column-59 -->
 
-<!-- Start of column-1 -->
+<!-- Start of column-60 -->
 <td align="center">
   <a href="https://github.com/judeleonard">
     <img
@@ -736,7 +736,7 @@
     <sub>Jude Leonard </sub>
   </a>
 </td>
-<!-- End of column-1 -->
+<!-- End of column-60 -->
 
 </tr>
 </table>
