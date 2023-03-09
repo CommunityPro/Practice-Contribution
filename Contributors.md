@@ -725,5 +725,18 @@
 </td>
 <!-- End of column-59 -->
 
+<!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/judeleonard">
+    <img
+      src="https://avatars.githubusercontent.com/u/56643416?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Jude Leonard </sub>
+  </a>
+</td>
+<!-- End of column-1 -->
+
 </tr>
 </table>
