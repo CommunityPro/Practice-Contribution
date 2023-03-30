@@ -738,5 +738,17 @@
 </td>
 <!-- End of column-60 -->
 
+<!-- Start of column-61 -->
+<td align="center">
+  <a href="https://github.com/evavic44">
+    <img
+      src="https://avatars.githubusercontent.com/u/62628408?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Victor Eke</sub>
+  </a>
+</td>
+<!-- End of column-61 -->
 </tr>
 </table>
