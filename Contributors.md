@@ -737,6 +737,17 @@
   </a>
 </td>
 <!-- End of column-60 -->
-
+<!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/VrindaDaga02">
+    <img
+      src="https://avatars.githubusercontent.com/u/112348809?s=40&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Vrinda Daga</sub>
+  </a>
+</td>
+<!-- End of column-61 -->
 </tr>
 </table>
