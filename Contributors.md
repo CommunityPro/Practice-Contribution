@@ -737,7 +737,8 @@
   </a>
 </td>
 <!-- End of column-60 -->
-<!-- Start of column-1 -->
+
+<!-- Start of column-61 -->
 <td align="center">
   <a href="https://github.com/VrindaDaga02">
     <img
@@ -749,5 +750,6 @@
   </a>
 </td>
 <!-- End of column-61 -->
+
 </tr>
 </table>
