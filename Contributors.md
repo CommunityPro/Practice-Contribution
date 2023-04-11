@@ -751,5 +751,18 @@
 </td>
 <!-- End of column-61 -->
 
+<!-- Start of column-62 -->
+<td align="center">
+  <a href="https://github.com/abdullah43577">
+    <img
+      src="https://avatars.githubusercontent.com/u/100965547?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Abdullah Ayoola</sub>
+  </a>
+</td>
+<!-- End of column-62 -->
+
 </tr>
 </table>
