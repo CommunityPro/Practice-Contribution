@@ -764,5 +764,18 @@
 </td>
 <!-- End of column-62 -->
 
+<!-- Start of column-63 -->
+<td align="center">
+  <a href="https://github.com/TechyCredeski">
+    <img
+      src="https://avatars.githubusercontent.com/u/66284998?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Chukwu Solomon</sub>
+  </a>
+</td>
+<!-- End of column-63 -->
+
 </tr>
 </table>
