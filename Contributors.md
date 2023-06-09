@@ -777,5 +777,21 @@
 </td>
 <!-- End of column-63 -->
 
+<tr>
+<!-- Start of column-64 -->
+<td align="center">
+  <a href="https://github.com/manish0kuniyal">
+    <img
+      src="https://avatars.githubusercontent.com/u/110035752?s=400&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Manish Kuniyal</sub>
+  </a>
+</td>
+<!-- End of column-64 -->
+  
+</tr>
+  
 </tr>
 </table>
