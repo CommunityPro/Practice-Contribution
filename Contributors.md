@@ -777,9 +777,8 @@
 </td>
 <!-- End of column-63 -->
 
-  
-  
-  <!-- Start of column-64 -->
+<tr>
+<!-- Start of column-64 -->
 <td align="center">
   <a href="https://github.com/manish0kuniyal">
     <img
@@ -791,6 +790,8 @@
   </a>
 </td>
 <!-- End of column-64 -->
+  
+</tr>
   
 </tr>
 </table>
