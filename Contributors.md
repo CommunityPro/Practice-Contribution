@@ -790,8 +790,21 @@
   </a>
 </td>
 <!-- End of column-64 -->
+<!-- Start of column-65 -->
+<td align="center">
+  <a href="https://github.com/mcjill">
+    <img
+      src="https://avatars.githubusercontent.com/u/66503402?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Elliot Brenya Sarfo</sub>
+  </a>
+</td>
+<!-- End of column-65 -->
   
 </tr>
   
 </tr>
+
 </table>
