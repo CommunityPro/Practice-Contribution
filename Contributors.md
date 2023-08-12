@@ -802,9 +802,21 @@
   </a>
 </td>
 <!-- End of column-65 -->
-  
+<!-- Start of column-66 -->
+<td align="center">
+  <a href="https://github.com/XanderRubio">
+    <img
+      src="https://avatars.githubusercontent.com/u/120526253?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Alexander Clemens</sub>
+  </a>
+</td>
+<!-- End of column-67 -->
+
 </tr>
-  
+
 </tr>
 
 </table>
