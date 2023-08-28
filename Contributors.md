@@ -814,6 +814,18 @@
   </a>
 </td>
 <!-- End of column-67 -->
+<!-- Start of column-68 -->
+<td align="center">
+  <a href="https://github.com/yannmarc">
+    <img
+      src="https://avatars.githubusercontent.com/u/89643808?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Yann Marc</sub>
+  </a>
+</td>
+<!-- End of column-68 -->
 
 </tr>
 
