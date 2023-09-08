@@ -826,7 +826,18 @@
   </a>
 </td>
 <!-- End of column-68 -->
-
+<!-- Start of column-69 -->
+<td align="center">
+  <a href="https://github.com/Gilbertttt">
+    <img
+      src="https://avatars.githubusercontent.com/u/93888334?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Umoren Gilbert</sub>
+  </a>
+</td>
+<!-- End of column-69 -->
 </tr>
 
 </tr>
