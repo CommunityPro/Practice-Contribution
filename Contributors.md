@@ -838,7 +838,7 @@
   </a>
 </td>
 <!-- End of column-69 -->
-<!-- Start of column-1 -->
+<!-- Start of column-70 -->
 <td align="center">
   <a href="https://github.com/onaivio">
     <img
@@ -849,7 +849,7 @@
     <sub>Onaivio</sub>
   </a>
 </td>
-<!-- End of column-1 -->
+<!-- End of column-70 -->
 </tr>
 
 </tr>
