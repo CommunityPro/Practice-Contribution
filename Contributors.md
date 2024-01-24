@@ -870,7 +870,7 @@
       width="100px"
     />
     <br />
-    <sub>Yael Gluskin</sub>
+    <sub>Yael Gluskin </sub>
   </a>
 </td>
 <!-- End of column-72 -->
