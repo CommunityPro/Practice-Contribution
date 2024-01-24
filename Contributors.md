@@ -862,6 +862,18 @@
   </a>
 </td>
 <!-- End of column-71 -->
+<!-- Start of column-72 -->
+<td align="center">
+  <a href="https://github.com/YaelGliskin">
+    <img
+      src="https://avatars.githubusercontent.com/u/145065202?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Yael Gluskin</sub>
+  </a>
+</td>
+<!-- End of column-72 -->
 </tr>
 
 </tr>
