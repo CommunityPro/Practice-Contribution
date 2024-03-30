@@ -862,6 +862,18 @@
   </a>
 </td>
 <!-- End of column-71 -->
+<!-- Start of column-72 -->
+<td align="center">
+  <a href="https://github.com/sojith29034">
+    <img
+      src="https://avatars.githubusercontent.com/u/72255758?s=400&u=3f0b62025184c5df6ca3a13cd1ab60ab22001ca8&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Sojith Sunny</sub>
+  </a>
+</td>
+<!-- End of column-72 -->
 </tr>
 
 </tr>
