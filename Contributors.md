@@ -863,7 +863,18 @@
 </td>
 <!-- End of column-71 -->
 </tr>
-
+<!-- Start of column-72 -->
+<td align="center">
+  <a href="https://github.com/akash-tk">
+    <img
+      src="https://avatars.githubusercontent.com/u/142676075?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Akash T K</sub>
+  </a>
+</td>
+<!-- End of column-72 -->
 </tr>
 
 </table>
