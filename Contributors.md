@@ -862,6 +862,18 @@
   </a>
 </td>
 <!-- End of column-71 -->
+<!-- Start of column-72 -->
+<td align="center">
+  <a href="https://github.com/Rakielle">
+    <img
+      src="https://avatars.githubusercontent.com/u/48498778?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Rachael Odetayo</sub>
+  </a>
+</td>
+<!-- End of column-72 -->
 </tr>
 
 </tr>
