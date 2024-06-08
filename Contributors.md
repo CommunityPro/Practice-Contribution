@@ -862,7 +862,9 @@
   </a>
 </td>
 <!-- End of column-71 -->
-<!-- Start of column-72 -->
+</tr>
+<tr>
+  <!-- Start of column-72 -->
 <td align="center">
   <a href="https://github.com/Rakielle">
     <img
@@ -875,7 +877,4 @@
 </td>
 <!-- End of column-72 -->
 </tr>
-
-</tr>
-
 </table>
