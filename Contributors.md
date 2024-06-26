@@ -861,7 +861,10 @@
     <sub>Sundaram</sub>
   </a>
 </td>
-<!-- End of column-71 -->
+</tr>
+
+<tr>
+  <!-- End of column-71 -->
   <!-- Start of column-72 -->
 <td align="center">
   <a href="https://github.com/Rakielle">
