@@ -1,4 +1,4 @@
-<h1 align="center">Contributors</h1>
+  <h1 align="center">Contributors</h1>
 
 <br>
 
@@ -862,8 +862,6 @@
   </a>
 </td>
 <!-- End of column-71 -->
-</tr>
-<tr>
   <!-- Start of column-72 -->
 <td align="center">
   <a href="https://github.com/Rakielle">
@@ -873,6 +871,18 @@
     />
     <br />
     <sub>Rachael Odetayo</sub>
+  </a>
+</td>
+<!-- End of column-72 -->
+  <!-- Start of column-73 -->
+<td align="center">
+  <a href="https://github.com/arhamansari11">
+    <img
+      src="https://avatars.githubusercontent.com/u/124850772?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Muhammad Arham</sub>
   </a>
 </td>
 <!-- End of column-72 -->
