@@ -888,6 +888,18 @@
     <sub>Muhammad Arham</sub>
   </a>
 </td>
-<!-- End of column-72 -->
+<!-- End of column-73 -->
+  <!-- Start of column-74 -->
+<td align="center">
+  <a href="https://github.com/The-CodeINN">
+    <img
+      src="https://avatars.githubusercontent.com/u/67247138?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Richard Emijere</sub>
+  </a>
+</td>
+<!-- End of column-74 -->
 </tr>
 </table>
