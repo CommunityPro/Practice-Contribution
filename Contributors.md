@@ -7,6 +7,19 @@
 
 <!-- Start of column-1 -->
 <td align="center">
+  <a href="https://github.com/abdullah4tech">
+    <img
+      src="https://avatars.githubusercontent.com/u/118620815?s=400&u=2f6e84dc68829b18f899454624abf12833746289&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Abdullah Mustapha</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
+
+<!-- Start of column-1 -->
+<td align="center">
   <a href="https://github.com/evavic44">
     <img src="https://avatars.githubusercontent.com/u/62628408?v=4" width="100px"> <br/>
     <sub>Victor Eke</sub>
