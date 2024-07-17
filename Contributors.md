@@ -901,5 +901,18 @@
   </a>
 </td>
 <!-- End of column-74 -->
+  <!-- Start of column-75 -->
+<td align="center">
+  <a href="https://github.com/Mubshr07">
+    <img
+      src="https://avatars.githubusercontent.com/u/34352213?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Mubashir Iqbal</sub>
+  </a>
+</td>
+<!-- End of column-75 -->
+
 </tr>
 </table>
