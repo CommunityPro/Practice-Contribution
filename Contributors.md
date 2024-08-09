@@ -913,6 +913,18 @@
   </a>
 </td>
 <!-- End of column-75 -->
+<!-- Start of column-76 -->
+<td align="center">
+  <a href="https://github.com/dekema9924">
+    <img
+      src="https://avatars.githubusercontent.com/u/143339000?s=400&u=6a317eda7c64612a5cb7abf4256354f01bc9c30a&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Daniel Ekema</sub>
+  </a>
+</td>
+<!-- End of column-76 -->
 
 </tr>
 </table>
