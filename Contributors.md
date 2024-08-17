@@ -913,6 +913,18 @@
   </a>
 </td>
 <!-- End of column-75 -->
+  <!-- Start of column-76 -->
+<td align="center">
+  <a href="https://github.com/aravindsbhat">
+    <img
+      src="https://avatars.githubusercontent.com/u/116895270?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Aravind S Bhat</sub>
+  </a>
+</td>
+<!-- End of column-76 -->
 
 </tr>
 </table>
