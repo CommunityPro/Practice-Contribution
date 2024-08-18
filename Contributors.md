@@ -901,7 +901,7 @@
   </a>
 </td>
 <!-- End of column-74 -->
-  <!-- Start of column-75 -->
+<!-- Start of column-75 -->
 <td align="center">
   <a href="https://github.com/Mubshr07">
     <img
@@ -925,6 +925,15 @@
   </a>
 </td>
 <!-- End of column-76 -->
-
+<!-- Start of column-77 -->
+<td align="center">
+  <a href="https://github.com/aravindsbhat">
+    <img
+      src="https://avatars.githubusercontent.com/u/116895270?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Aravind S Bhat</sub>
+<!-- End of column-77 -->
 </tr>
 </table>
