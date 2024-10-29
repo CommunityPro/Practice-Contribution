@@ -935,5 +935,15 @@
     <br />
     <sub>Aravind S Bhat</sub>
 <!-- End of column-77 -->
+<!-- Start of column-78 -->
+<td align="center">
+  <a href="https://github.com/HassanMehmood413">
+    <img
+      src="https://avatars.githubusercontent.com/u/170643017?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Hassan Mehmood</sub>
+<!-- End of column-78 -->
 </tr>
 </table>
