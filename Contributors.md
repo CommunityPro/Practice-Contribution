@@ -1,4 +1,4 @@
-<h1 align="center">Contributors</h1>
+  <h1 align="center">Contributors</h1>
 
 <br>
 
@@ -876,6 +876,77 @@
 <!-- End of column-72 -->
 </tr>
 
+<tr>
+  <!-- End of column-71 -->
+  <!-- Start of column-72 -->
+<td align="center">
+  <a href="https://github.com/Rakielle">
+    <img
+      src="https://avatars.githubusercontent.com/u/48498778?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Rachael Odetayo</sub>
+  </a>
+</td>
+<!-- End of column-72 -->
+  <!-- Start of column-73 -->
+<td align="center">
+  <a href="https://github.com/arhamansari11">
+    <img
+      src="https://avatars.githubusercontent.com/u/124850772?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Muhammad Arham</sub>
+  </a>
+</td>
+<!-- End of column-73 -->
+  <!-- Start of column-74 -->
+<td align="center">
+  <a href="https://github.com/The-CodeINN">
+    <img
+      src="https://avatars.githubusercontent.com/u/67247138?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Richard Emijere</sub>
+  </a>
+</td>
+<!-- End of column-74 -->
+<!-- Start of column-75 -->
+<td align="center">
+  <a href="https://github.com/Mubshr07">
+    <img
+      src="https://avatars.githubusercontent.com/u/34352213?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Mubashir Iqbal</sub>
+  </a>
+</td>
+<!-- End of column-75 -->
+<!-- Start of column-76 -->
+<td align="center">
+  <a href="https://github.com/dekema9924">
+    <img
+      src="https://avatars.githubusercontent.com/u/143339000?s=400&u=6a317eda7c64612a5cb7abf4256354f01bc9c30a&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Daniel Ekema</sub>
+  </a>
+</td>
+<!-- End of column-76 -->
+<!-- Start of column-77 -->
+<td align="center">
+  <a href="https://github.com/aravindsbhat">
+    <img
+      src="https://avatars.githubusercontent.com/u/116895270?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Aravind S Bhat</sub>
+<!-- End of column-77 -->
 </tr>
-
 </table>
