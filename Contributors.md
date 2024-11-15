@@ -945,5 +945,15 @@
     <br />
     <sub>Hassan Mehmood</sub>
 <!-- End of column-78 -->
+<!-- Start of column-79 -->
+<td align="center">
+  <a href="https://github.com/theusmanyousaf">
+    <img
+      src="https://avatars.githubusercontent.com/u/109468416?s=400&u=bd013f303c51190a79d818694d7a8c1ffd08981a&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Usman Yousaf</sub>
+<!-- End of column-79 -->
 </tr>
 </table>
