@@ -945,6 +945,7 @@
     <br />
     <sub>Hassan Mehmood</sub>
 <!-- End of column-78 -->
+<tr>
 <!-- Start of column-79 -->
 <td align="center">
   <a href="https://github.com/theusmanyousaf">
