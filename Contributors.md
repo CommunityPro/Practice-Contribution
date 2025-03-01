@@ -956,5 +956,17 @@
     <br />
     <sub>Usman Yousaf</sub>
 <!-- End of column-79 -->
+<!-- Start of column-80 -->
+<td align="center">
+  <a href="https://github.com/Passion-Over-Pain">
+    <img
+      src="https://avatars.githubusercontent.com/u/193404105?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Tino Mhedziso</sub>
+  </a>
+</td>
+<!-- End of column-80 -->
 </tr>
 </table>
