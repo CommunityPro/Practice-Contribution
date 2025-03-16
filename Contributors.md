@@ -956,5 +956,17 @@
     <br />
     <sub>Usman Yousaf</sub>
 <!-- End of column-79 -->
+<!-- Start of column-80 -->
+<td align="center">
+  <a href="https://github.com/BibhushanKarki">
+    <img
+      src="https://avatars.githubusercontent.com/u/24572691?s=96&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Bibhushan Karki</sub>
+  </a>
+</td>
+<!-- End of column-80 -->
 </tr>
 </table>
