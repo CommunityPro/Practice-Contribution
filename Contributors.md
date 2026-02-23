@@ -957,4 +957,16 @@
     <sub>Usman Yousaf</sub>
 <!-- End of column-79 -->
 </tr>
+    <tr>
+<!-- Start of column-79 -->
+<td align="center">
+  <a href="https://github.com/EimanTahir071">
+    <img
+      src="https://avatars.githubusercontent.com/u/109468416?s=400&u=bd013f303c51190a79d818694d7a8c1ffd08981a&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Eiman Tahir</sub>
+<!-- End of column-79 -->
+</tr>
 </table>
