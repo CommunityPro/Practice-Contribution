@@ -962,7 +962,7 @@
 <td align="center">
   <a href="https://github.com/EimanTahir071">
     <img
-      src="https://avatars.githubusercontent.com/u/109468416?s=400&u=bd013f303c51190a79d818694d7a8c1ffd08981a&v=4"
+      src="https://github.com/EimanTahir071.png"
       width="100px"
     />
     <br />
