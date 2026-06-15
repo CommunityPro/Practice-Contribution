@@ -956,5 +956,18 @@
     <br />
     <sub>Usman Yousaf</sub>
 <!-- End of column-79 -->
+    <!-- Start of column-80 -->
+        <td align="center">
+          <a href="https://github.com/yuvanvishnupandi">
+            <img
+              src="https://avatars.githubusercontent.com/u/71508816?v=4"
+              width="100px"
+            />
+            <br />
+            <sub><b>Yuvan Vishnu Pandi</b></sub>
+          </a>
+        </td>
+        <!-- End of column-80 -->
 </tr>
 </table>
+
