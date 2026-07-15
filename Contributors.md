@@ -956,5 +956,17 @@
     <br />
     <sub>Usman Yousaf</sub>
 <!-- End of column-79 -->
+<!-- Start of column-80 -->
+<td align="center">
+  <a href="https://github.com/highbeek">
+    <img
+      src="https://avatars.githubusercontent.com/u/110677730?s=400&u=4504529c5fa3b08e34ddaf0076806946376f1cb7&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Ibukun Agboola</sub>
+  </a>
+</td>
+<!-- End of column-80 -->
 </tr>
 </table>
