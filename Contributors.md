@@ -956,5 +956,15 @@
     <br />
     <sub>Usman Yousaf</sub>
 <!-- End of column-79 -->
+    <!-- Start of column-80 -->
+<td align="center">
+  <a href="https://github.com/AlbertUmoren20">
+    <img
+      src="https://avatars.githubusercontent.com/u/93887479?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Albert Umoren</sub>
+<!-- End of column-80 -->
 </tr>
 </table>
