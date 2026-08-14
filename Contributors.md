@@ -1037,4 +1037,18 @@
   </a>
 </td>
 <!-- End of column-82 -->
+
+<!-- Start of column-83 -->
+<td align="center">
+  <a href="https://GitHub.com/HP2000C">
+    <img
+      src="https://avatars.githubusercontent.com/u/307552711?s=400&u=f71c6133efec4d6748dbb27d439f8254fe70a6cd&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Hossein P.™</sub>
+  </a>
+</td>
+<!-- End of column-83 -->
+
 </table>
