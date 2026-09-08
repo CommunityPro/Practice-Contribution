@@ -1051,4 +1051,17 @@
 </td>
 <!-- End of column-83 -->
 
+<!-- Start of column-84 -->
+<td align="center">
+  <a href="https://github.com/pokemon225">
+    <img
+      src="https://avatars.githubusercontent.com/u/9170205?s=400&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>pokemon225</sub>
+  </a>
+</td>
+<!-- End of column-84 -->
+
 </table>
