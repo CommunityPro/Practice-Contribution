@@ -1051,4 +1051,17 @@
 </td>
 <!-- End of column-83 -->
 
+<!-- Start of column-84 -->
+<td align="center">
+  <a href="https://github.com/adarshpatil-07">
+    <img
+      src="https://avatars.githubusercontent.com/u/234761698?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Adarsh Patil</sub>
+  </a>
+</td>
+<!-- End of column-84 -->
+
 </table>
