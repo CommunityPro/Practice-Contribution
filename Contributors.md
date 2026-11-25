@@ -1,9 +1,19 @@
   <h1 align="center">Contributors</h1>
 
 <br>
-
 <table>
 <tr>
+<td align="center">
+  <a href="https://github.com/gecktore">
+    <img
+      src="https://avatars.githubusercontent.com/u/91012868?u=2996cbe845e2d524a1798b8127e0a40e85903774&v=4&size=64"
+      width="100px"
+    />
+    <br />
+    <sub>bebra cheremsha</sub>
+  </a>
+</td>
+
 <!-- Start of column-1 -->
 <td align="center">
   <a href="https://github.com/abdullah4tech">
